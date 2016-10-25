@@ -70,7 +70,8 @@ body {
 	visibility: visible;
 }
 .about img {
-	margin: 0 auto;
+	width: 900px;
+	padding-left: 18px;
 }
 .footer {
 	color: #fff;
