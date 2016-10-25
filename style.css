@@ -71,7 +71,7 @@ body {
 }
 .about img {
 	width: 850px ;
-	padding-left: 18%;
+	margin: 0 auto;
 }
 .footer {
 	color: #fff;
