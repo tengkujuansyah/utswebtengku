@@ -71,15 +71,15 @@ body {
 }
 .about img {
 	width: 850px;
-	padding-left: 16%;
+	padding-left: 15%;
 }
 .footer {
 	color: #fff;
 	background-color: #1f282b;
 	padding-top: 5px;
 	padding-bottom: 10px;
+	text-decoration: none;
 }
 .footer li {
 	text-align: center;
-	text-decoration: none;
 }
